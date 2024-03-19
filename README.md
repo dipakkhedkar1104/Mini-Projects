@@ -16,6 +16,9 @@ This repository contains the source code and resources for my mini projects. Eac
 
 4. **My FullStack Project (Spring Boot App)**
    - [Repository Link](https://github.com/dipakkhedkar1104/Mini-Projects/tree/main/My_FullStack_Project_SpringB-react)
+  
+5. **Also Visit**
+   - [Repository Link]( https://github.com/dipakkhedkar1104/Restaurant-Management-System-.git)
 
 ## Installation
 Provide instructions on how to install and set up each project. Include any dependencies or prerequisites needed to run the projects.
