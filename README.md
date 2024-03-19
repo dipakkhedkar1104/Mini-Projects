@@ -30,7 +30,8 @@ Let others know how they can contribute to your projects. This could include gui
 Specify the license under which your projects are distributed. Choose an appropriate license that suits your needs and intentions.
 
 ## Contact
-<h3></h3> GitHub: https://github.com/dipakkhedkar1104/</h3>
+<h3> <b>GitHub :</b> https://github.com/dipakkhedkar1104/</h3>
+<h3> <b> Linkdin: </b> https://www.linkedin.com/in/dipak-khedkar-8ab8b7171/</h3>
 
 ## Acknowledgements
 Give credit to any individuals, organizations, or resources that have helped or inspired you during the development of your projects.
