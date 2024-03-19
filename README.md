@@ -1,1 +1,1 @@
-<h1>Platform: Java , Java Servlet and MySQL</h1>
+<h1 style={{color:"red"}}>Welcome to my mini project repo</h1>
